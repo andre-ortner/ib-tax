@@ -14,5 +14,10 @@
             "username": "root",
             "password": "root"
         }
+    ],
+    "cSpell.words": [
+        "conid",
+        "levelname",
+        "pymysql"
     ]
 }
